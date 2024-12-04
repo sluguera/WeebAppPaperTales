@@ -108,5 +108,5 @@ Este proyecto está licenciado bajo la licencia MIT - ver el archivo [LICENSE](L
 
 ## Contacto
 
-Para cualquier duda o sugerencia, puedes contactar al equipo de desarrollo en `correo@relatosdepapel.com`.
+Para cualquier duda o sugerencia, puedes contactar al equipo de desarrollo en `grupo25@relatosdepapel.com`.
 
